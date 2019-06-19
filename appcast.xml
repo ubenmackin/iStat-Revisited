@@ -2,18 +2,6 @@
 <channel>
 <title>iStat Revisited</title>
 <item>
-<title>1.0</title>
-  <description><![CDATA[
-        <h2>New Features</h2>
-        <ul><li>Initial Release</li>
-        </ul>
-    ]]>
-  </description>
-<pubDate>Wed, 19 Jun 2019 09:56:33 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1/iStat.Revisited.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="7142964" type="application/octet-stream"/>
-</item>
-<item>
 <title>1.1</title>
   <description><![CDATA[
         <h2>New Features</h2>
@@ -24,8 +12,21 @@
         </ul>
     ]]>
   </description>
-<pubDate>Wed, 19 Jun 2019 10:52:33 -0700</pubDate>
+<pubDate>Wed, 19 Jun 2019 12:04:21 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1.1/iStat.Revisited.v1.1.zip" sparkle:version="1" sparkle:shortVersionString="1.1" length="7143042" type="application/octet-stream" sparkle:dsaSignature="MCQCAAIgObIJQkdMFdp3Nc7fk3irIUbURPxVrnviHJW+FM0Y3S0="/>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1.1/iStat.Revisited.v1.1.zip" sparkle:version="1" sparkle:shortVersionString="1.1" length="6833153" type="application/octet-stream"/>
+</item>
+
+<item>
+<title>1.0</title>
+<description><![CDATA[
+        <h2>New Features</h2>
+        <ul><li>Initial Release</li>
+        </ul>
+    ]]>
+  </description>
+<pubDate>Wed, 19 Jun 2019 12:02:55 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1.1/iStat.Revisited.v1.0.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6833121" type="application/octet-stream"/>
 </item>
 </channel></rss>
