@@ -12,8 +12,20 @@
         </ul>
     ]]>
   </description>
-<pubDate>Wed, 19 Jun 2019 09:56:33 -0700</pubDate>
+<pubDate>Wed, 19 Jun 2019 10:52:33 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
 <enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1.1/iStat.Revisited.v1.1.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="7142964" type="application/octet-stream"/>
+</item>
+<item>
+<title>1.0</title>
+  <description><![CDATA[
+        <h2>New Features</h2>
+        <ul><li>Initial Release</li>
+        </ul>
+    ]]>
+  </description>
+<pubDate>Wed, 19 Jun 2019 09:56:33 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1/iStat.Revisited.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="7142964" type="application/octet-stream"/>
 </item>
 </channel></rss>
