@@ -3,7 +3,7 @@
 <title>iStat Revisited</title>
 <item>
 <title>1.2</title>
-<description><![CDATA[
+        <description><![CDATA[
         <h2>New Features</h2>
         <ul><li>Added menu shortcuts to show/hide panels</li>
         </ul>
@@ -12,8 +12,8 @@
         </ul>
     ]]>
   </description>
-<pubDate>Wed, 19 Jun 2019 19:31:51 -0700</pubDate>
+<pubDate>Wed, 19 Jun 2019 20:08:47 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1.1/iStat.Revisited.v1.2.zip" sparkle:version="1" sparkle:shortVersionString="1.2" length="6834907" type="application/octet-stream"/>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1.1/iStat.Revisited.v1.2.zip" sparkle:version="1" sparkle:shortVersionString="1.2" length="6834863" type="application/octet-stream"/>
 </item>
 </channel></rss>
