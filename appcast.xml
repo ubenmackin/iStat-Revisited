@@ -7,6 +7,7 @@
         <h2>New Features</h2>
         <ul><li>Added menu shortcuts to show/hide panels</li>
         </ul>
+        <h2>Bug Fixes</h2>
         <ul><li>Fixed performance bug with the Disk panel that could cause a freeze on update</li>
         </ul>
     ]]>
