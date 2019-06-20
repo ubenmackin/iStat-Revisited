@@ -16,30 +16,4 @@
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1.1/iStat.Revisited.v1.2.zip" sparkle:version="1" sparkle:shortVersionString="1.2" length="6834907" type="application/octet-stream"/>
 </item>
-
-<item>
-<title>1.0</title>
-<description><![CDATA[
-        <h2>New Features</h2>
-        <ul><li>Initial Release</li>
-        </ul>
-    ]]>
-  </description>
-<pubDate>Wed, 19 Jun 2019 12:02:55 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1.1/iStat.Revisited.v1.0.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6833121" type="application/octet-stream"/>
-</item>
-
-<item>
-<title>1.1</title>
-  <description><![CDATA[        
-        <h2>Bug Fixes</h2>
-        <ul><li>Fixed pause menu working when Preferences window is open</li>
-        </ul>
-    ]]>
-  </description>
-<pubDate>Wed, 19 Jun 2019 12:04:21 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1.1/iStat.Revisited.v1.1.zip" sparkle:version="1" sparkle:shortVersionString="1.1" length="6833153" type="application/octet-stream"/>
-</item>
 </channel></rss>
