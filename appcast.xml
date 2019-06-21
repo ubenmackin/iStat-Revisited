@@ -35,4 +35,27 @@
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/v1.1/iStat.Revisited.zip" sparkle:version="2" sparkle:shortVersionString="1.1" length="6972878" type="application/octet-stream"/>
 </item>
+<item>
+<title>1.2</title>
+<description><![CDATA[
+<h2>New Features</h2>
+<ul>
+<li>None</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>Fixed high CPU usage on inital launch, do to bad default timer settings.</li>
+<li>Fixed other default preferences to have more sane defaults.</li>
+<li>Moved the Temperature preference pane before the Update preference pane.</li>
+<li>Fixed the update frequency sliders to properly disable when the pane is not shown.</li>
+</ul>
+]]>
+</description>
+<pubDate>Fri, 21 Jun 2019 14:23:48 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/v1.2/iStat.Revisited.zip" sparkle:version="3" sparkle:shortVersionString="1.2" length="6974401" type="application/octet-stream"/>
+</item>
 </channel></rss>
+
+
+
