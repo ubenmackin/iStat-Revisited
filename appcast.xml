@@ -16,6 +16,23 @@
 </description>
 <pubDate>Thu, 20 Jun 2019 10:52:24 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/1.1/iStat.Revisited.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6836443" type="application/octet-stream"/>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/v1.0/iStat.Revisited.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6836443" type="application/octet-stream"/>
+</item>
+<item>
+<title>1.1</title>
+  <description><![CDATA[
+<h2>New Features</h2>
+<ul>
+<li>Added temperature and fan monitoring</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>None</li>
+</ul>
+]]>
+</description>
+<pubDate>Thu, 20 Jun 2019 22:54:40 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/v1.1/iStat.Revisited.zip" sparkle:version="2" sparkle:shortVersionString="1.1" length="6972878" type="application/octet-stream"/>
 </item>
 </channel></rss>
