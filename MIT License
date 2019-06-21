@@ -1,7 +1,12 @@
 Parts of this software use MIT Licensed frameworks:
 
 Sparkle
+By Mayur Pawashe, Kornel Lesiński, Jake Petroules, C.W. Betts and Andy Matuschak
+https://cocoapods.org/pods/Sparkle
+
 NetUtils
+By Stefan van den Oord
+https://cocoapods.org/pods/NetUtils
 
 ----
 
