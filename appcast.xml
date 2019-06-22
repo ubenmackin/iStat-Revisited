@@ -55,6 +55,23 @@
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 <enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/v1.2/iStat.Revisited.zip" sparkle:version="3" sparkle:shortVersionString="1.2" length="6974401" type="application/octet-stream"/>
 </item>
+<item>
+<title>1.3</title>
+<description><![CDATA[
+<h2>New Features</h2>
+<ul>
+<li>Added code to get network bytes used since boot</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>None</li>
+</ul>
+]]>
+</description>
+<pubDate>Fri, 21 Jun 2019 21:42:39 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ubenmackin/iStat-Revisited/releases/download/v1.3/iStat.Revisited.zipp" sparkle:version="4" sparkle:shortVersionString="1.3" length="6986019" type="application/octet-stream"/>
+</item>
 </channel></rss>
 
 
